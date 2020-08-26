@@ -239,12 +239,12 @@ TextureImporter:
       name: PostBox
       rect:
         serializedVersion: 2
-        x: 81
-        y: 69
-        width: 36
-        height: 45
-      alignment: 9
-      pivot: {x: 0.54709065, y: 0.12663972}
+        x: 85
+        y: 72
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
